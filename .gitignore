@@ -1,0 +1,4 @@
+*.pkl
+*.csv
+models/
+data/chat/
